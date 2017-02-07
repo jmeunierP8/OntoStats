@@ -219,6 +219,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/univ/ontologies/2016/10/untitled-ontology-9#Comparer">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/univ/ontologies/2016/10/untitled-ontology-9#Procédure_d&apos;analyse"/>
+        <rdfs:comment>test</rdfs:comment>
     </owl:Class>
     
 
